@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: 3b2275b47b4545a74319f5de082270f239b414ef5180f749447d98d842bdf003
+  ignore_detectors: []
+- filename: pages/login_page.js
+  checksum: 18689e13b518daafa7c420f677becc39c7e99828f1eee6680e8d50996694f14c
+  ignore_detectors: []
+scopeconfig: []
